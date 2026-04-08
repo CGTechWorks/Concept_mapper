@@ -1,4 +1,5 @@
 Concept Mapper (Prototype)
+![Concept Mapper Demo](Demo1.png)
 
 ## What
 This is a local, AI-inspired (originally built using qwen2.5:7b model for prototype) exploration engine designed to break vague ideas into structured decision paths.
